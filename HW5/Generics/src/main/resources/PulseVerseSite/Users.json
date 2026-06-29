@@ -1,0 +1,44 @@
+[
+  {
+    "username": "kate_w",
+    "password": "oceanHeart",
+    "email": "kate.w@germail.de",
+    "phone": "+49 151 23456789"
+  },
+  {
+    "username": "diana_k",
+    "password": "hunterX2024",
+    "email": "diana.k@mail.com",
+    "phone": "+27 83 555 8899"
+  },
+  {
+    "username": "peter_parker",
+    "password": "sp1derman!",
+    "email": "peter.parker@frmail.fr",
+    "phone": "+33 7 89 12 34 56"
+  },
+  {
+    "username": "frank_castle",
+    "password": "punishMe",
+    "email": "frank.castle@ukmail.co.uk",
+    "phone": "+44 7700 900123"
+  },
+  {
+    "username": "ethan_hawk",
+    "password": "flyHigh99",
+    "email": "ethan.hawk@japanmail.jp",
+    "phone": "+81 90 1234 5678"
+  },
+  {
+    "username": "bob_the_builder",
+    "password": "hammerTime!",
+    "email": "bob.builder@outlook.com",
+    "phone": "+27 82 123 4567"
+  },
+  {
+    "username": "puns_n_roses",
+    "password": "sweetLaughOMine",
+    "email": "puns.roses@de-mail.de",
+    "phone": "+49 160 99887766"
+  }
+]

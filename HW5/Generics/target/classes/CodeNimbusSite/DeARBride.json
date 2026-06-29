@@ -1,0 +1,26 @@
+{
+  "Serverless Platforms": [
+    "AWS Lambda",
+    "Google Cloud Functions"
+  ],
+  "Cloud Certifications": [
+    "AWS Certified",
+    "Azure Admin"
+  ],
+  "Cloud Usage in Enterprises": "90%",
+  "Primary Cloud Platforms": [
+    "AWS",
+    "Azure",
+    "Google Cloud",
+    "IBM Cloud"
+  ],
+  "Cloud Security Tools": [
+    "Prisma Cloud",
+    "Azure Defender"
+  ],
+  "Kubernetes in Cloud": "Widely Adopted",
+  "Popular IaaS Services": [
+    "EC2",
+    "Google Compute Engine"
+  ]
+}

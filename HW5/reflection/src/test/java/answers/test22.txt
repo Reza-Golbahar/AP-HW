@@ -1,0 +1,13 @@
+class Snake=>
+	for all Snake-> humanUses: [Medicinal Research, Skin Trade, Pest Control]
+class Reptile=>
+	for this Reptile-> isDangerous: true
+	for this Reptile-> hasScales: true
+class Animal=>
+	for this Animal-> name: snake
+	for this Animal-> DNA: Sn1
+	for this Animal-> habitat: LAND
+	for this Animal-> bodyColor: yellow
+	for this Animal-> isWarmBlooded: false
+	for this Animal-> averageWeight: 3.4
+	for this Animal-> averageLifespan: 13

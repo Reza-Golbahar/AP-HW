@@ -1,0 +1,9 @@
+{
+  "Immunization Gaps": ["Rural Areas", "Conflict Zones"],
+  "Top Vaccine Manufacturers": ["Pfizer", "GSK", "Moderna"],
+  "Vaccine Access Regions": ["Africa", "Asia", "South America"],
+  "New Vaccine Developments": ["Malaria", "RSV"],
+  "Annual Vaccination Drives": 560,
+  "Global Child Vaccination Coverage": 88,
+  "Herd Immunity Threshold": "95%"
+}

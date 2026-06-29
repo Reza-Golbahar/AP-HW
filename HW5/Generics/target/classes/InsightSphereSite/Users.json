@@ -1,0 +1,32 @@
+[
+  {
+    "username": "tofu_terminator",
+    "password": "illBeVeggie",
+    "age": "61",
+    "email": "tofu.terminator@veganmail.ca"
+  },
+  {
+    "username": "puns_n_roses",
+    "password": "sweetLaughOMine",
+    "age": "35",
+    "email": "puns.roses@de-mail.de"
+  },
+  {
+    "username": "ethan_hawk",
+    "password": "flyHigh99",
+    "age": "34",
+    "email": "ethan.hawk@japanmail.jp"
+  },
+  {
+    "username": "nate_dog",
+    "password": "snoopFriend",
+    "age": "37",
+    "email": "nate.dog@ukmail.co.uk"
+  },
+  {
+    "username": "queen_b",
+    "password": "beyHive2025",
+    "age": "28",
+    "email": "queen.b@tokyo.jp"
+  }
+]

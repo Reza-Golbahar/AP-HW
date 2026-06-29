@@ -1,0 +1,44 @@
+[
+  {
+    "username": "sir_dancealot",
+    "password": "boogieKnight2025",
+    "age": "45",
+    "phone": "+55 31 99887 1234"
+  },
+  {
+    "username": "glitch_goblin",
+    "password": "bugHunter777",
+    "age": "24",
+    "phone": "+1 415 555 9012"
+  },
+  {
+    "username": "bob_the_builder",
+    "password": "hammerTime!",
+    "age": "42",
+    "phone": "+27 82 123 4567"
+  },
+  {
+    "username": "peter_parker",
+    "password": "sp1derman!",
+    "age": "34",
+    "phone": "+33 7 89 12 34 56"
+  },
+  {
+    "username": "alice01",
+    "password": "pass1234",
+    "age": "31",
+    "phone": "+61 412 345 678"
+  },
+  {
+    "username": "charlie_c",
+    "password": "password1",
+    "age": "60",
+    "phone": "+61 417 987 654"
+  },
+  {
+    "username": "tofu_terminator",
+    "password": "illBeVeggie",
+    "age": "61",
+    "phone": "+1 604 555 3210"
+  }
+]

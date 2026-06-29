@@ -1,0 +1,13 @@
+class EasternNewt=>
+	for all EasternNewt-> humanUses: [Environmental Indicators, Research Toxicology Studies, Pet Trade]
+class Salamander=>
+class Amphibian=>
+	for this Amphibian-> isDangerous: true
+class Animal=>
+	for this Animal-> name: easternNewt
+	for this Animal-> DNA: EN1
+	for this Animal-> habitat: WATER_AND_LAND
+	for this Animal-> bodyColor: red-orange
+	for this Animal-> isWarmBlooded: false
+	for this Animal-> averageWeight: 0.0035
+	for this Animal-> averageLifespan: 14

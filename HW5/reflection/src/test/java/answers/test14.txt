@@ -1,0 +1,13 @@
+class Trout=>
+	for all Trout-> humanUses: [Food Source, Fishing, Aquaculture]
+class BonyFish=>
+class Fish=>
+	for this Fish-> isDangerous: false
+class Animal=>
+	for this Animal-> name: trout
+	for this Animal-> DNA: T1
+	for this Animal-> habitat: WATER
+	for this Animal-> bodyColor: olive-green
+	for this Animal-> isWarmBlooded: false
+	for this Animal-> averageWeight: 1.6
+	for this Animal-> averageLifespan: 7

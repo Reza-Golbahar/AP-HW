@@ -1,0 +1,31 @@
+{
+  "Best Backend Languages": [
+    "Go",
+    "Java",
+    "Python"
+  ],
+  "Remote Dev Tools": [
+    "Codespaces",
+    "Gitpod"
+  ],
+  "Trending IDEs": [
+    "VS Code",
+    "IntelliJ",
+    "PyCharm"
+  ],
+  "Top Programming Languages 2024": [
+    "Python",
+    "JavaScript",
+    "Go",
+    "Rust"
+  ],
+  "Popular DevOps Tools": [
+    "Docker",
+    "Kubernetes",
+    "Terraform"
+  ],
+  "AI Frameworks 2024": [
+    "TensorFlow",
+    "PyTorch"
+  ]
+}

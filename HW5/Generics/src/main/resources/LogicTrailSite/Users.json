@@ -1,0 +1,32 @@
+[
+  {
+    "username": "grace_h",
+    "password": "graceful9",
+    "country": "Brazil",
+    "gender": "female"
+  },
+  {
+    "username": "tofu_terminator",
+    "password": "illBeVeggie",
+    "country": "Canada",
+    "gender": "male"
+  },
+  {
+    "username": "charlie_c",
+    "password": "password1",
+    "country": "Australia",
+    "gender": "male"
+  },
+  {
+    "username": "peter_parker",
+    "password": "sp1derman!",
+    "country": "France",
+    "gender": "male"
+  },
+  {
+    "username": "nacho_ninja",
+    "password": "cheeseKick77",
+    "country": "USA",
+    "gender": "male"
+  }
+]

@@ -1,0 +1,13 @@
+class Salmon=>
+	for all Salmon-> humanUses: [Food Source, Fishing]
+class BonyFish=>
+class Fish=>
+	for this Fish-> isDangerous: false
+class Animal=>
+	for this Animal-> name: salmon
+	for this Animal-> DNA: S1
+	for this Animal-> habitat: WATER
+	for this Animal-> bodyColor: silver
+	for this Animal-> isWarmBlooded: false
+	for this Animal-> averageWeight: 4.5
+	for this Animal-> averageLifespan: 5

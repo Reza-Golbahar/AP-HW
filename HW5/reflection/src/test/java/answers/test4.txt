@@ -1,0 +1,13 @@
+class Turtle=>
+	for all Turtle-> humanUses: [Pet Trade]
+class Reptile=>
+	for this Reptile-> isDangerous: false
+	for this Reptile-> hasScales: false
+class Animal=>
+	for this Animal-> name: turtle
+	for this Animal-> DNA: Tu1
+	for this Animal-> habitat: LAND
+	for this Animal-> bodyColor: greenish
+	for this Animal-> isWarmBlooded: false
+	for this Animal-> averageWeight: 1.9
+	for this Animal-> averageLifespan: 38

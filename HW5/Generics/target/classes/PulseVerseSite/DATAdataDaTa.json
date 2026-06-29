@@ -1,0 +1,16 @@
+{
+  "Global Infant Mortality Rate": 29,
+  "Vaccination Programs": [
+    "Polio",
+    "MMR",
+    "BCG"
+  ],
+  "Measles Cases Worldwide": 134000,
+  "Global Child Vaccination Coverage": 86,
+  "COVID-19 Vaccination Coverage": "63%",
+  "Countries With Lowest Coverage": [
+    "South Sudan",
+    "Chad"
+  ],
+  "UNICEF Budget": "5.2 Billion"
+}

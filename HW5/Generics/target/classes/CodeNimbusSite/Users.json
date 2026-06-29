@@ -1,0 +1,32 @@
+[
+  {
+    "username": "queen_b",
+    "password": "beyHive2025",
+    "email": "queen.b@tokyo.jp",
+    "gender": "female"
+  },
+  {
+    "username": "bob_the_builder",
+    "password": "hammerTime!",
+    "email": "bob.builder@outlook.com",
+    "gender": "male"
+  },
+  {
+    "username": "henry_viii",
+    "password": "tudorKing!",
+    "email": "henry.viii@canmail.ca",
+    "gender": "male"
+  },
+  {
+    "username": "peter_parker",
+    "password": "sp1derman!",
+    "email": "peter.parker@frmail.fr",
+    "gender": "male"
+  },
+  {
+    "username": "nate_dog",
+    "password": "snoopFriend",
+    "email": "nate.dog@ukmail.co.uk",
+    "gender": "male"
+  }
+]

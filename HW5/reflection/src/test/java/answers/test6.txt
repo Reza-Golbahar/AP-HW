@@ -1,0 +1,13 @@
+class Eagle=>
+	for this Eagle-> wingColor: dark brown
+class Bird=>
+	for this Bird-> canFly: true
+	for this Bird-> averageEggsPerYear: 2
+class Animal=>
+	for this Animal-> name: eagle
+	for this Animal-> DNA: E1
+	for this Animal-> habitat: LAND
+	for this Animal-> bodyColor: dark gray-brown
+	for this Animal-> isWarmBlooded: true
+	for this Animal-> averageWeight: 4.5
+	for this Animal-> averageLifespan: 25

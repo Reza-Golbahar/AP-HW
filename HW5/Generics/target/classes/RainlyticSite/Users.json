@@ -1,0 +1,68 @@
+[
+  {
+    "username": "tofu_terminator",
+    "password": "illBeVeggie",
+    "age": "61",
+    "country": "Canada"
+  },
+  {
+    "username": "glitch_goblin",
+    "password": "bugHunter777",
+    "age": "24",
+    "country": "USA"
+  },
+  {
+    "username": "sir_dancealot",
+    "password": "boogieKnight2025",
+    "age": "45",
+    "country": "Brazil"
+  },
+  {
+    "username": "alice01",
+    "password": "pass1234",
+    "age": "31",
+    "country": "Australia"
+  },
+  {
+    "username": "peter_parker",
+    "password": "sp1derman!",
+    "age": "34",
+    "country": "France"
+  },
+  {
+    "username": "charlie_c",
+    "password": "password1",
+    "age": "60",
+    "country": "Australia"
+  },
+  {
+    "username": "jack_black",
+    "password": "guitarHero",
+    "age": "30",
+    "country": "France"
+  },
+  {
+    "username": "unicorn_bouncer",
+    "password": "noMagicNoEntry",
+    "age": "39",
+    "country": "France"
+  },
+  {
+    "username": "mia_m",
+    "password": "miaMia123",
+    "age": "32",
+    "country": "India"
+  },
+  {
+    "username": "bob_the_builder",
+    "password": "hammerTime!",
+    "age": "42",
+    "country": "South Africa",
+  },
+  {
+    "username": "nate_dog",
+    "password": "snoopFriend",
+    "age": "37",
+    "country": "UK"
+  }
+]

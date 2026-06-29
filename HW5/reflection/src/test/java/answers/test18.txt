@@ -1,0 +1,11 @@
+class Wolf=>
+class Mammal=>
+	for this Mammal-> canLiveWithHumans: false
+class Animal=>
+	for this Animal-> name: wolf
+	for this Animal-> DNA: W1
+	for this Animal-> habitat: LAND
+	for this Animal-> bodyColor: gray
+	for this Animal-> isWarmBlooded: true
+	for this Animal-> averageWeight: 48.9
+	for this Animal-> averageLifespan: 7

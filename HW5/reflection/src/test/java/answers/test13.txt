@@ -1,0 +1,12 @@
+class GreatWhiteShark=>
+class CartilaginousFish=>
+class Fish=>
+	for this Fish-> isDangerous: true
+class Animal=>
+	for this Animal-> name: sharkEnhanced
+	for this Animal-> DNA: Sh1T1
+	for this Animal-> habitat: WATER
+	for this Animal-> bodyColor: olive-green/white
+	for this Animal-> isWarmBlooded: false
+	for this Animal-> averageWeight: 1125.8
+	for this Animal-> averageLifespan: 46

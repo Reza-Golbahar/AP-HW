@@ -1,0 +1,38 @@
+[
+  {
+    "username": "tom_riddle",
+    "password": "heirOfSlytherin",
+    "country": "South Africa",
+    "phone": "+27 82 234 5678"
+  },
+  {
+    "username": "nate_dog",
+    "password": "snoopFriend",
+    "country": "UK",
+    "phone": "+44 7900 123456"
+  },
+  {
+    "username": "diana_k",
+    "password": "hunterX2024",
+    "country": "South Africa",
+    "phone": "+27 83 555 8899"
+  },
+  {
+    "username": "peter_parker",
+    "password": "sp1derman!",
+    "country": "France",
+    "phone": "+33 7 89 12 34 56"
+  },
+  {
+    "username": "bob_the_builder",
+    "password": "hammerTime!",
+    "country": "South Africa",
+    "phone": "+27 82 123 4567"
+  },
+  {
+    "username": "rick_r",
+    "password": "portalGun",
+    "country": "Japan",
+    "phone": "+81 90 1111 2222"
+  }
+]

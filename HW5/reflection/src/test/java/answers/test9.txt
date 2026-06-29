@@ -1,0 +1,12 @@
+class Dog=>
+	for all Dog-> humanUses: [Guarding, Police Dog, Companionship, Therapy Animal, Service Animal]
+class Mammal=>
+	for this Mammal-> canLiveWithHumans: true
+class Animal=>
+	for this Animal-> name: dogEnhanced
+	for this Animal-> DNA: D1W1
+	for this Animal-> habitat: LAND
+	for this Animal-> bodyColor: gray/brown
+	for this Animal-> isWarmBlooded: true
+	for this Animal-> averageWeight: 32.6
+	for this Animal-> averageLifespan: 9
